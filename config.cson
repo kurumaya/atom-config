@@ -1,0 +1,33 @@
+"*":
+  "exception-reporting":
+    userId: "2ec4b3e2-23f9-bc7b-a8bf-efeccdd4ab19"
+  welcome:
+    showOnStartup: false
+  "markdown-preview":
+    useGitHubStyle: true
+  core:
+    disabledPackages: [
+      "japanese-wrap"
+    ]
+  editor:
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    fontFamily: "MigMix 2M"
+  "japanese-wrap":
+    characterWidth: {}
+  jumpy: {}
+  minimap:
+    plugins:
+      bookmarks: true
+      "highlight-selected": true
+      pigments: true
+  "one-dark-ui":
+    layoutMode: "Compact"
+".python.regexp.source":
+  editor:
+    preferredLineLength: 120
+".python.source":
+  editor:
+    preferredLineLength: 120
